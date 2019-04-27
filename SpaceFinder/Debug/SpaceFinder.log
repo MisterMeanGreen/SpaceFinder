@@ -1,0 +1,5 @@
+﻿  SpaceFinder.cpp
+c:\users\nick\source\repos\spacefinder\spacefinder\spacefinder.cpp(72): warning C4267: 'argument': conversion from 'size_t' to 'const uint16_t', possible loss of data
+c:\users\nick\source\repos\spacefinder\spacefinder\spacefinder.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+c:\users\nick\source\repos\spacefinder\spacefinder\spacefinder.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'uint16_t', possible loss of data
+  SpaceFinder.vcxproj -> C:\Users\Nick\Source\repos\SpaceFinder\Debug\SpaceFinder.exe
